@@ -6,6 +6,7 @@ async function copyText(e){
     let link = this.getAttribute('link')
     try {
         await navigator.clipboard.writeText(link)
+         alert('copiado para área de transferência ')
     } catch (error) {
         console.log(error);
     }
