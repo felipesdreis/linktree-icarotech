@@ -1,3 +1,3 @@
 # linktree-icarotech 
 
-Lookalike liktree em html, css, js
+Lookalike linktree em html, css, js
