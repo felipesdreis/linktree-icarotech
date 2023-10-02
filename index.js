@@ -24,7 +24,7 @@ function saveContato(e) {
         name: "Felipe Reis (Icaro Tech)",
         phone: "19 37318310",
         email: "felipe.reis@icarotech.com",
-        url: "https://www.linkedin.com/in/felipesdreis/"
+        url: "https://www.linkedin.com/in/felipesdreis/",
         image: base64 //converter imagem para base64 (https://www.base64-image.de/)
     };
     // Criar um arquivo vcard (https://en.wikipedia.org/wiki/VCard)
